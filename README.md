@@ -1,0 +1,2 @@
+# educate
+beginner project - calculator
